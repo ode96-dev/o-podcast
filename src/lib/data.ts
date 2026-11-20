@@ -28,7 +28,7 @@ export const PODCAST_INFO = {
 export const HOSTS: Host[] = [
   {
     name: "Thea Mwangi",
-    role: "Co-Host & Sound Architect",
+    role: "Host & Sound Architect",
     city: "Nairobi",
     bio: "Cultural journalist and ethnomusicologist directing O’s investigative field recordings, soundscapes, and political economy deep dives.",
     twitter: "@theamwangi",
