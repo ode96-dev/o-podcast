@@ -1,7 +1,7 @@
-import React from "react";
 import { PodcastHero } from "@/components/home/podcast-hero";
 import { LatestEpisodes } from "@/components/home/latest-episodes";
 import { HostsAndTour } from "@/components/home/hosts-and-tour";
+import { MerchandisePreview } from "@/components/home/merchandise-preview";
 
 export default function HomePage() {
   return (
@@ -9,6 +9,7 @@ export default function HomePage() {
       <PodcastHero />
       <LatestEpisodes />
       <HostsAndTour />
+      <MerchandisePreview />
     </main>
   );
 }
